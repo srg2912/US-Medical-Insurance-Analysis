@@ -4,6 +4,7 @@
 This project analyzes a dataset of US health insurance costs using exploratory data analysis (EDA). The dataset includes demographic and health-related factors such as age, BMI, number of children, smoking status, and region, along with the corresponding medical charges.
 
 ## Dataset
+Original Dataset [here](https://www.kaggle.com/datasets/mirichoi0218/insurance).
 The dataset contains the following columns:
 - **age**: Age of the primary beneficiary
 - **sex**: Gender of the insurance holder (male/female)
