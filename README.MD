@@ -5,6 +5,7 @@ This project analyzes a dataset of US health insurance costs using exploratory d
 
 ## Dataset
 Original Dataset [here](https://www.kaggle.com/datasets/mirichoi0218/insurance).
+
 The dataset contains the following columns:
 - **age**: Age of the primary beneficiary
 - **sex**: Gender of the insurance holder (male/female)
