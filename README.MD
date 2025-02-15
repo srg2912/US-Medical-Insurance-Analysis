@@ -18,7 +18,7 @@ The analysis includes:
 1. **Summary Statistics**: Mean, median, mode, variance, and standard deviation for numerical variables.
 2. **Correlation Analysis**: Examined relationships between variables, including Pearson correlation.
 3. **Visualizations**:
-   - Scatter plot of `age` vs `charges`, color-coded by smoking status.
+   - Scatter plot of `age` vs `charges`.
    - Boxplots comparing medical costs across different groups.
    - Histograms and density plots to understand variable distributions.
 
