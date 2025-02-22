@@ -38,9 +38,6 @@ The analysis includes:
 2. Open and run the Jupyter Notebook (`US Insurance Project.ipynb`).
 3. View the visualizations and analysis results.
 
-## Author
-Sergio Avalos S.
-
 ## Acknowledgments
 This project was conducted as part of my Data Science learning journey.
 
